@@ -1,0 +1,39 @@
+# Dependencies
+node_modules
+pnpm-lock.yaml
+bun.lock
+
+# Development files
+playground
+test
+*.test.ts
+*.spec.ts
+src
+
+# Build artifacts (except dist/module.* which are needed)
+*.tgz
+
+# Config files
+.eslintrc.json
+vitest.config.ts
+tsconfig.json
+pnpm-workspace.yaml
+
+# IDE files
+.vscode
+.idea
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Runtime cache
+.nuxt
+.output
+.nitro
