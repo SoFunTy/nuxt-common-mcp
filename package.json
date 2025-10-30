@@ -1,6 +1,6 @@
 {
   "name": "@blodless/common",
-  "version": "1.0.3",
+  "version": "1.0.5",
   "description": "MCP (Model Context Protocol) module for Nuxt",
   "type": "module",
   "main": "./dist/module.mjs",
@@ -42,13 +42,13 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/your-org/panel.git",
+    "url": "https://github.com/SoFunTy/nuxt-common-mcp.git",
     "directory": "modules/common"
   },
   "bugs": {
-    "url": "https://github.com/your-org/panel/issues"
+    "url": "https://github.com/SoFunTy/nuxt-common-mcp/issues"
   },
-  "homepage": "https://github.com/your-org/panel/tree/main/modules/common#readme",
+  "homepage": "https://github.com/SoFunTy/nuxt-common-mcp#readme",
   "engines": {
     "node": ">=18.0.0"
   },
